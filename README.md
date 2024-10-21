@@ -1,6 +1,6 @@
 Política de Privacidade do Sistema BXMED 
 
-Versão 2.0 - Última Atualização: 16.10.2024
+Versão 2.0 - Última Atualização: 21.10.2024
 
 1. Introdução
 A BXMED Contabilidade, por meio do Aplicativo BXMED, está comprometido com a proteção da privacidade e dos dados pessoais de seus usuários. Esta Política de Privacidade descreve como coletamos, utilizamos, compartilhamos e protegemos as informações pessoais que você nos fornece ao utilizar o Aplicativo BXMED. Ao utilizar nossos serviços, você concorda com os termos desta Política.
@@ -45,14 +45,9 @@ Podemos atualizar esta Política de Privacidade periodicamente. As alterações 
 
 8. Contato
 Para entrar em contato conosco sobre esta Política de Privacidade ou exercer seus direitos, entre em contato com:
+contato@branef.com.br
 
-Dra. Rosa Mariama Santos Filgueiras
-(ADVOGADA)
-contato@regularizzar.com.br
-(71) 9.9708-4580
 9. Lei Geral de Proteção de Dados (LGPD)
 Esta Política de Privacidade está em conformidade com a Lei Geral de Proteção de Dados (LGPD) e demais normas aplicáveis.
 
-Salvador, Bahia, 16 de outubro de 2024.
-
-Regularizzar Consultoria em Tecnologia S/A
+Salvador, Bahia, 21 de outubro de 2024.
